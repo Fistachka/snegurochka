@@ -1,21 +1,20 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 «Расскажи, Снегурочка» из м/ф "Ну, погоди!" 1973г. 1 часть
-
 ![з2](https://github.com/user-attachments/assets/3b4980a2-2a75-43bf-9e82-0134149b6c1c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/77FqKT_CL4c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Потолок ледяной, дверь скрипучая...
-За шершавой стеной тьма колючая...
-Как пойдешь за порог, всюду иней,
-А из окон парок синий-синий.
+Расскажи Снегурочка, где была?
+Расскажи-ка милая, как дела?
 
-Потолок ледяной, дверь скрипучая...
-За шершавой стеной тьма колючая...
-Как пойдешь за порог, всюду иней,
-А из окон парок синий-синий!
+За тобою бегала Дед Мороз
+Пролила немало я горьких слез.
+
+А ну-ка, давай-ка, плясать выходи!
+Нет Дед Мороз, нет Дед Мороз,
+Нет Дед Мороз, погоди!
 
 Предыдущий урок:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/a4a0deba-3dee-4a02-b176-adbcdd207542 =200x200)
@@ -29,15 +28,15 @@ stolbitsa.com/fistachka/zima4<br><br>
 <iframe width="315" height="560" src="https://www.youtube.com/embed/kr7t1RtDkc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Potolok ledyanoj, dver' skripuchaya...
-Za shershavoj stenoj t'ma kolyuchaya...
-Kak pojdesh' za porog, vsyudu inej,
-A iz okon parok sinij-sinij.
+Rasskazhi Snegurochka, gde byla?
+Rasskazhi-ka milaya, kak dela?
 
-Potolok ledyanoj, dver' skripuchaya...
-Za shershavoj stenoj t'ma kolyuchaya...
-Kak pojdesh' za porog, vsyudu inej,
-A iz okon parok sinij-sinij!
+Za toboyu begala Ded Moroz
+Prolila nemalo ya gor'kih slez.
+
+A nu-ka, davaj-ka, plyasat' vyhodi!
+Net Ded Moroz, net Ded Moroz,
+Net Ded Moroz, pogodi!
 
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/a4a0deba-3dee-4a02-b176-adbcdd207542 =200x200)
