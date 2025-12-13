@@ -42,3 +42,8 @@ Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/f4c7054e-9de8-4484-acf2-dc6d9f3c9351 =200x200)
 stolbitsa.com/fistachka/zima3<br><br>
 
+
+
+![з1](https://github.com/user-attachments/assets/274a7ff8-af3c-430f-8d7f-129610090482)
+![з2](https://github.com/user-attachments/assets/3b4980a2-2a75-43bf-9e82-0134149b6c1c)
+
