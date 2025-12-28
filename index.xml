@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>snegurochka</repo>
-  <version>v1.0.13</version>
+  <version>v1.0.14</version>
   <next number="1" owner="Fistachka" repo="snegurochka2"/>
   <readme>
     <ru>683d166d7182ceb5d2c40a1831f8a675dd08b140fb8224e3d9d958f2396d8561</ru>
@@ -178,20 +178,19 @@
     </notes>
   </exercise>
   <exercise number="13">
-    <scale>minor</scale>
-    <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>167</bpm>
+    <scale>major</scale>
+    <bpm>148</bpm>
     <lowestNote>6</lowestNote>
-    <tonalities>8</tonalities>
+    <tonalities>4</tonalities>
     <video name="13.mp4" size="1616865" type="video/mp4" volume="0.5">56526a336bc9109b2f051e658ba9f7f476e15579c62bc4800c4b59dc5ae5ab42</video>
     <notes>
-      <note number="1" values="38" ticks="27" durationTicks="36" ppq="96" velocity="0.803"/>
-      <note number="2" values="38" ticks="75" durationTicks="34" ppq="96" velocity="0.764"/>
-      <note number="3" values="38" ticks="123" durationTicks="65" ppq="96" velocity="0.803"/>
-      <note number="4" values="38" ticks="208" durationTicks="30" ppq="96" velocity="0.803"/>
-      <note number="5" values="38" ticks="257" durationTicks="28" ppq="96" velocity="0.795"/>
-      <note number="6" values="38" ticks="300" durationTicks="65" ppq="96" velocity="0.795"/>
-      <note number="7" values="38" ticks="576" durationTicks="95" ppq="96" velocity="0.795"/>
+      <note number="1" values="28" ticks="66" durationTicks="76" ppq="96" velocity="0.803"/>
+      <note number="2" values="18" ticks="162" durationTicks="34" ppq="96" velocity="0.764"/>
+      <note number="3" values="18" ticks="209" durationTicks="39" ppq="96" velocity="0.803"/>
+      <note number="4" values="7" ticks="257" durationTicks="92" ppq="96" velocity="0.803"/>
+      <note number="5" values="6" ticks="354" durationTicks="28" ppq="96" velocity="0.795"/>
+      <note number="6" values="7" ticks="400" durationTicks="41" ppq="96" velocity="0.795"/>
+      <note number="7" values="18" ticks="449" durationTicks="95" ppq="96" velocity="0.795"/>
     </notes>
   </exercise>
 </level>
