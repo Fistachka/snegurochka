@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>snegurochka</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="Fistachka" repo="snegurochka2"/>
   <readme>
     <ru>683d166d7182ceb5d2c40a1831f8a675dd08b140fb8224e3d9d958f2396d8561</ru>
@@ -96,23 +96,23 @@
   <exercise number="7">
     <scale>major</scale>
     <bpm>148</bpm>
-    <lowestNote>4</lowestNote>
+    <lowestNote>6</lowestNote>
     <tonalities>4</tonalities>
     <video name="7.mp4" size="1393963" type="video/mp4" volume="0.5">f8c46477977b1ec28a0e39523e7a1b029bc8f35caf3d7b9483b9374b1302b72b</video>
     <notes>
-      <note number="1" values="6" ticks="29" durationTicks="28" ppq="96" velocity="0.794"/>
-      <note number="2" values="7" ticks="78" durationTicks="33" ppq="96" velocity="0.772"/>
-      <note number="3" values="18" ticks="130" durationTicks="51" ppq="96" velocity="0.817"/>
-      <note number="4" values="28" ticks="204" durationTicks="26" ppq="96" velocity="0.794"/>
-      <note number="5" values="4" ticks="243" durationTicks="28" ppq="96" velocity="0.774"/>
-      <note number="6" values="4" ticks="289" durationTicks="90" ppq="96" velocity="0.817"/>
-      <note number="7" values="48" ticks="576" durationTicks="95" ppq="96" velocity="0.817"/>
+      <note number="1" values="6" ticks="49" durationTicks="28" ppq="96" velocity="0.794"/>
+      <note number="2" values="7" ticks="97" durationTicks="33" ppq="96" velocity="0.772"/>
+      <note number="3" values="18" ticks="144" durationTicks="33" ppq="96" velocity="0.817"/>
+      <note number="4" values="28" ticks="195" durationTicks="26" ppq="96" velocity="0.794"/>
+      <note number="5" values="18" ticks="238" durationTicks="76" ppq="96" velocity="0.774"/>
+      <note number="6" values="6" ticks="324" durationTicks="31" ppq="96" velocity="0.747"/>
+      <note number="7" values="6" ticks="373" durationTicks="49" ppq="96" velocity="0.722"/>
     </notes>
   </exercise>
   <exercise number="8">
     <scale>major</scale>
     <bpm>148</bpm>
-    <lowestNote>4</lowestNote>
+    <lowestNote>6</lowestNote>
     <tonalities>4</tonalities>
     <video name="8.mp4" size="936246" type="video/mp4" volume="0.5">4c7f298103d48e6d340be2683a0b995d9bea0c077ed52f91a0e7b1d772af21af</video>
     <notes>
