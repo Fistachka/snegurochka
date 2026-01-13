@@ -4,7 +4,7 @@
 ![з2](https://github.com/user-attachments/assets/3b4980a2-2a75-43bf-9e82-0134149b6c1c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/lzhOncVP2-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzyCIM9U_Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Расскажи Снегурочка, где была?
 Расскажи-ка милая, как дела?
@@ -26,7 +26,7 @@ stolbitsa.com/fistachka/zima4<br><br>
 ![з2](https://github.com/user-attachments/assets/3b4980a2-2a75-43bf-9e82-0134149b6c1c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Ao1vQwQDNS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GQ_ENCXogw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Rasskazhi Snegurochka, gde byla?
 Rasskazhi-ka milaya, kak dela?
